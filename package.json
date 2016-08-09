@@ -1,5 +1,5 @@
 {
-  "name": "koa-jwt",
+  "name": "@dmx/koa-jwt",
   "version": "1.2.0",
   "description": "Koa JWT authentication middleware.",
   "keywords": [
@@ -18,12 +18,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/koajs/jwt.git"
+    "url": "git+https://github.com/dmx-io/jwt.git"
+
   },
   "bugs": {
-    "url": "https://github.com/koajs/jwt/issues"
+    "url": "https://github.com/dmx-io/jwt/issues"
   },
-  "homepage": "https://github.com/koajs/jwt",
+  "homepage": "https://github.com/dmx-io/jwt",
   "author": {
     "name": "Stian Grytøyr",
     "email": "stian@grytoyr.net",
